@@ -4,6 +4,6 @@ namespace Domain.Interfaces;
 
 public interface IExchangeRateAPIHandler
 {
-    Task<string?> GetExchange(string from, string to);
+    Task<decimal?> GetExchange(string from, string to, decimal amount);
 
 }

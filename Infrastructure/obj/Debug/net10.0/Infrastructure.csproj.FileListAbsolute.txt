@@ -1,0 +1,16 @@
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/bin/Debug/net10.0/Infrastructure.deps.json
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/bin/Debug/net10.0/Infrastructure.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/bin/Debug/net10.0/Infrastructure.pdb
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/bin/Debug/net10.0/Domain.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/bin/Debug/net10.0/Domain.pdb
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastructure.AssemblyInfo.cs
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastructure.sourcelink.json
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastr.15EFFBFE.Up2Date
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastructure.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/refint/Infrastructure.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/Infrastructure.pdb
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Infrastructure/obj/Debug/net10.0/ref/Infrastructure.dll

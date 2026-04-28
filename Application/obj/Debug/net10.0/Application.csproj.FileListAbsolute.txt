@@ -1,0 +1,16 @@
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/bin/Debug/net10.0/Application.deps.json
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/bin/Debug/net10.0/Application.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/bin/Debug/net10.0/Application.pdb
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/bin/Debug/net10.0/Domain.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/bin/Debug/net10.0/Domain.pdb
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Application.csproj.AssemblyReference.cache
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Application.AssemblyInfoInputs.cache
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Application.AssemblyInfo.cs
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Application.csproj.CoreCompileInputs.cache
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Application.sourcelink.json
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Applicat.44B5EDA2.Up2Date
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Application.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/refint/Application.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/Application.pdb
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Application/obj/Debug/net10.0/ref/Application.dll

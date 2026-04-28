@@ -1,0 +1,12 @@
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/bin/Debug/net10.0/Domain.deps.json
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/bin/Debug/net10.0/Domain.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/bin/Debug/net10.0/Domain.pdb
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/Domain.AssemblyInfoInputs.cache
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/Domain.AssemblyInfo.cs
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/Domain.csproj.CoreCompileInputs.cache
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/Domain.sourcelink.json
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/Domain.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/refint/Domain.dll
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/Domain.pdb
+/Users/juan/Documents/Austral/proyecto-lab/conversor/Domain/obj/Debug/net10.0/ref/Domain.dll
