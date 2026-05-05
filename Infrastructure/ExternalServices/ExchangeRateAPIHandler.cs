@@ -6,23 +6,19 @@ namespace Infrastructure.ExternalServices;
 
 public class ExchangeRateAPIHandler : IExchangeRateAPIHandler
 {
-    private string AuthenticationToken { get; set; } = "d6b23e4e743deea63560e8a7";
-    private HttpClient exchangeRateApiClient;
-    public ExchangeRateAPIHandler()
+    private readonly HttpClient _httpClient;
+
+    public ExchangeRateAPIHandler(HttpClient httpClient)
     {
-        exchangeRateApiClient = new()
-        {
-            BaseAddress = new Uri($"https://v6.exchangerate-api.com/v6/{AuthenticationToken}/pair/")
-        };
+        _httpClient = httpClient;
     }
 
     public async Task<decimal?> GetExchange(string from, string to, decimal amount)
     {
-        HttpResponseMessage httpResponseMessage = await exchangeRateApiClient.GetAsync($"{from}/{to}/{amount}");
-        string json = await httpResponseMessage.Content.ReadAsStringAsync();
+        HttpResponseMessage response = await _httpClient.GetAsync($"{from}/{to}/{amount}");
+        string json = await response.Content.ReadAsStringAsync();
 
         var doc = JsonDocument.Parse(json);
         return doc.RootElement.GetProperty("conversion_result").GetDecimal();
     }
-
 }
